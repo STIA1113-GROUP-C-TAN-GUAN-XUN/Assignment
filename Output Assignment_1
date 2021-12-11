@@ -1,0 +1,97 @@
+Welcome to Handbags Customized service platform
+__________________________________________________
+
+This program provide a customize handbag service.
+First, do you wish to obtain suggestion size, weight and type of handbags? (Y/N)
+Y
+Please answer the following question accordingly.
+1. Please enter your height in cm: 
+163
+2. Please enter your weight in kg: 
+61
+3. Please enter your body type: 
+  i.  Inverted Triangle Body Type
+  ii. Triangle Body Type
+  iii.Rectangle Body Type
+  iv. Hourglass Body Type
+  v.  Apple Body Type
+Inverted Triangle Body Type
+
+Your height is 163cm
+Your weight is 61kg
+You body type is Inverted Triangle Body Type
+
+Before start personalization feature of the handbags, Please choose the brand and type of the handbag you prefer:
+a. Gucci
+b. Coach
+c. Louis Vuitton
+  	i.   Clutch
+  	ii.  Hobo
+  	iii. Satchel
+  	iv.  Shopper
+ 	  v.   Travel
+  	vi.  Cross-body
+  	vii. Sports
+  	viii.Beach
+   	ix.  Messenger Bag
+  	x.   Sling Bag
+Coach, Travel
+
+____________________________________
+
+===Personalization Section===
+
+Material        Price(RM) 
+Leather          +RM90 
+Vegan Leather    +RM25 
+Cotton Canvas    +RM55 
+Nylon            +RM30 
+Cordura          +RM35 
+Denim            +RM70 
+
+Please select the material of the handbags:
+Leather
+
+===Accessories Add-on(Handbag Compartment)===
+
+Items        		Price (RM) 
+Adding compartment(each)    +RM15 
+Adding handle               +RM7 
+Adding zipper               +RM5 
+Adding inner pocket         +RM12 
+
+Please select your accessories add-on: 
+handle, zipper and inner pocket
+
+---------------------Membership-----------------
+Cost of all type of handbag = RM150
+10% discount will be available for membership
+Do you have a membership? Please enter your member id:
+852741654
+------------------------------------------------
+
+---------------------Confirm Order--------------
+The brand and the type of the bag you choose is Coach, Travel
+The material you choose is Leather
+The accessoreis add-on you choose is handle, zipper and inner pocket
+------------------------------------------------
+
+Please enter the price of the material you choose: 
+90
+Please enter the price of the accessories you choose: 
+24
+----------------------Payment--------------------
+The price of the handbag      = RM 150.00
+The price of the material     = RM 90.00
+The price of the accessories  = RM 24.00
+Total price before discount   = RM 264.00
+Discount                      = RM 26.40
+__________________________________________________
+Total price after discount    = RM 211.20
+
+Please enter the amount paid = RM 
+220
+Total amount paid             = RM 220.00
+Change                        = RM -8.80
+
+Thank you very much! Please enjoy your day!
